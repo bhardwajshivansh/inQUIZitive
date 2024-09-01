@@ -18,7 +18,6 @@ import NotFound from "./Components/NotFound/NotFound";
 import QuizInput from "./Components/QuizInput/QuizInput";
 import QuizCreationSuccess from "./Components/QuizCreationSuccess/QuizCreationSuccess";
 import QuizSubmitted from "./Components/QuizSubmitted/QuizSubmitted";
-import Footer from "./Components/Footer/Footer";
 import QuizAll from "./Components/QuizAll/QuizAll";
 import QuizzesList from "./Components/QuizzesList/QuizzesList";
 import QuizSend from "./Components/QuizSend/QuizSend";
